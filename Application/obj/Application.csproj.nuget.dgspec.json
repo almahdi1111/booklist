@@ -1,0 +1,88 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\train5\\Desktop\\Books List\\Application\\Application.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\train5\\Desktop\\Books List\\Application\\Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\train5\\Desktop\\Books List\\Application\\Application.csproj",
+        "projectName": "Application",
+        "projectPath": "C:\\Users\\train5\\Desktop\\Books List\\Application\\Application.csproj",
+        "packagesPath": "C:\\Users\\train5\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\train5\\Desktop\\Books List\\Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\train5\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net50"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net50": {
+            "projectReferences": {
+              "C:\\Users\\train5\\Desktop\\Books List\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\train5\\Desktop\\Books List\\Domain\\Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net50": {}
+      }
+    },
+    "C:\\Users\\train5\\Desktop\\Books List\\Domain\\Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\train5\\Desktop\\Books List\\Domain\\Domain.csproj",
+        "projectName": "Domain",
+        "projectPath": "C:\\Users\\train5\\Desktop\\Books List\\Domain\\Domain.csproj",
+        "packagesPath": "C:\\Users\\train5\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\train5\\Desktop\\Books List\\Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\train5\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net50"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net50": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net50": {}
+      }
+    }
+  }
+}

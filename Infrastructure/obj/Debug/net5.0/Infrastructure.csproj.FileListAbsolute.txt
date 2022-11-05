@@ -1,0 +1,60 @@
+C:\Users\train11\Desktop\Books\Infrastructure\bin\Debug\net5.0\Infrastructure.deps.json
+C:\Users\train11\Desktop\Books\Infrastructure\bin\Debug\net5.0\Infrastructure.runtimeconfig.json
+C:\Users\train11\Desktop\Books\Infrastructure\bin\Debug\net5.0\Infrastructure.runtimeconfig.dev.json
+C:\Users\train11\Desktop\Books\Infrastructure\bin\Debug\net5.0\Infrastructure.dll
+C:\Users\train11\Desktop\Books\Infrastructure\bin\Debug\net5.0\Infrastructure.pdb
+C:\Users\train11\Desktop\Books\Infrastructure\bin\Debug\net5.0\Application.dll
+C:\Users\train11\Desktop\Books\Infrastructure\bin\Debug\net5.0\Domain.dll
+C:\Users\train11\Desktop\Books\Infrastructure\bin\Debug\net5.0\Application.pdb
+C:\Users\train11\Desktop\Books\Infrastructure\bin\Debug\net5.0\Domain.pdb
+C:\Users\train11\Desktop\Books\Infrastructure\obj\Debug\net5.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\train11\Desktop\Books\Infrastructure\obj\Debug\net5.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\train11\Desktop\Books\Infrastructure\obj\Debug\net5.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\train11\Desktop\Books\Infrastructure\obj\Debug\net5.0\Infrastructure.AssemblyInfo.cs
+C:\Users\train11\Desktop\Books\Infrastructure\obj\Debug\net5.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\train11\Desktop\Books\Infrastructure\obj\Debug\net5.0\Infrastructure.csproj.CopyComplete
+C:\Users\train11\Desktop\Books\Infrastructure\obj\Debug\net5.0\Infrastructure.dll
+C:\Users\train11\Desktop\Books\Infrastructure\obj\Debug\net5.0\refint\Infrastructure.dll
+C:\Users\train11\Desktop\Books\Infrastructure\obj\Debug\net5.0\Infrastructure.pdb
+C:\Users\train11\Desktop\Books\Infrastructure\obj\Debug\net5.0\Infrastructure.genruntimeconfig.cache
+C:\Users\train11\Desktop\Books\Infrastructure\obj\Debug\net5.0\ref\Infrastructure.dll
+C:\Users\train11\Desktop\Ex\Books List\Infrastructure\bin\Debug\net5.0\Infrastructure.deps.json
+C:\Users\train11\Desktop\Ex\Books List\Infrastructure\bin\Debug\net5.0\Infrastructure.runtimeconfig.json
+C:\Users\train11\Desktop\Ex\Books List\Infrastructure\bin\Debug\net5.0\Infrastructure.runtimeconfig.dev.json
+C:\Users\train11\Desktop\Ex\Books List\Infrastructure\bin\Debug\net5.0\Infrastructure.dll
+C:\Users\train11\Desktop\Ex\Books List\Infrastructure\bin\Debug\net5.0\Infrastructure.pdb
+C:\Users\train11\Desktop\Ex\Books List\Infrastructure\bin\Debug\net5.0\Application.dll
+C:\Users\train11\Desktop\Ex\Books List\Infrastructure\bin\Debug\net5.0\Domain.dll
+C:\Users\train11\Desktop\Ex\Books List\Infrastructure\bin\Debug\net5.0\Application.pdb
+C:\Users\train11\Desktop\Ex\Books List\Infrastructure\bin\Debug\net5.0\Domain.pdb
+C:\Users\train11\Desktop\Ex\Books List\Infrastructure\obj\Debug\net5.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\train11\Desktop\Ex\Books List\Infrastructure\obj\Debug\net5.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\train11\Desktop\Ex\Books List\Infrastructure\obj\Debug\net5.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\train11\Desktop\Ex\Books List\Infrastructure\obj\Debug\net5.0\Infrastructure.AssemblyInfo.cs
+C:\Users\train11\Desktop\Ex\Books List\Infrastructure\obj\Debug\net5.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\train11\Desktop\Ex\Books List\Infrastructure\obj\Debug\net5.0\Infrastructure.csproj.CopyComplete
+C:\Users\train11\Desktop\Ex\Books List\Infrastructure\obj\Debug\net5.0\Infrastructure.dll
+C:\Users\train11\Desktop\Ex\Books List\Infrastructure\obj\Debug\net5.0\refint\Infrastructure.dll
+C:\Users\train11\Desktop\Ex\Books List\Infrastructure\obj\Debug\net5.0\Infrastructure.pdb
+C:\Users\train11\Desktop\Ex\Books List\Infrastructure\obj\Debug\net5.0\Infrastructure.genruntimeconfig.cache
+C:\Users\train11\Desktop\Ex\Books List\Infrastructure\obj\Debug\net5.0\ref\Infrastructure.dll
+\\192.168.10.114\trainers\Moaid\Books List\Infrastructure\bin\Debug\net5.0\Infrastructure.deps.json
+\\192.168.10.114\trainers\Moaid\Books List\Infrastructure\bin\Debug\net5.0\Infrastructure.runtimeconfig.json
+\\192.168.10.114\trainers\Moaid\Books List\Infrastructure\bin\Debug\net5.0\Infrastructure.runtimeconfig.dev.json
+\\192.168.10.114\trainers\Moaid\Books List\Infrastructure\bin\Debug\net5.0\Infrastructure.dll
+\\192.168.10.114\trainers\Moaid\Books List\Infrastructure\bin\Debug\net5.0\Infrastructure.pdb
+\\192.168.10.114\trainers\Moaid\Books List\Infrastructure\bin\Debug\net5.0\Application.dll
+\\192.168.10.114\trainers\Moaid\Books List\Infrastructure\bin\Debug\net5.0\Domain.dll
+\\192.168.10.114\trainers\Moaid\Books List\Infrastructure\bin\Debug\net5.0\Application.pdb
+\\192.168.10.114\trainers\Moaid\Books List\Infrastructure\bin\Debug\net5.0\Domain.pdb
+\\192.168.10.114\trainers\Moaid\Books List\Infrastructure\obj\Debug\net5.0\Infrastructure.csproj.AssemblyReference.cache
+\\192.168.10.114\trainers\Moaid\Books List\Infrastructure\obj\Debug\net5.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+\\192.168.10.114\trainers\Moaid\Books List\Infrastructure\obj\Debug\net5.0\Infrastructure.AssemblyInfoInputs.cache
+\\192.168.10.114\trainers\Moaid\Books List\Infrastructure\obj\Debug\net5.0\Infrastructure.AssemblyInfo.cs
+\\192.168.10.114\trainers\Moaid\Books List\Infrastructure\obj\Debug\net5.0\Infrastructure.csproj.CoreCompileInputs.cache
+\\192.168.10.114\trainers\Moaid\Books List\Infrastructure\obj\Debug\net5.0\Infrastructure.csproj.CopyComplete
+\\192.168.10.114\trainers\Moaid\Books List\Infrastructure\obj\Debug\net5.0\Infrastructure.dll
+\\192.168.10.114\trainers\Moaid\Books List\Infrastructure\obj\Debug\net5.0\refint\Infrastructure.dll
+\\192.168.10.114\trainers\Moaid\Books List\Infrastructure\obj\Debug\net5.0\Infrastructure.pdb
+\\192.168.10.114\trainers\Moaid\Books List\Infrastructure\obj\Debug\net5.0\Infrastructure.genruntimeconfig.cache
+\\192.168.10.114\trainers\Moaid\Books List\Infrastructure\obj\Debug\net5.0\ref\Infrastructure.dll

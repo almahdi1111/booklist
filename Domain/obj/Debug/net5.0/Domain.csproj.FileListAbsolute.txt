@@ -1,0 +1,24 @@
+C:\Users\train11\Desktop\Books\Domain\bin\Debug\net5.0\Domain.deps.json
+C:\Users\train11\Desktop\Books\Domain\bin\Debug\net5.0\Domain.dll
+C:\Users\train11\Desktop\Books\Domain\bin\Debug\net5.0\Domain.pdb
+C:\Users\train11\Desktop\Books\Domain\obj\Debug\net5.0\Domain.csproj.AssemblyReference.cache
+C:\Users\train11\Desktop\Books\Domain\obj\Debug\net5.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\train11\Desktop\Books\Domain\obj\Debug\net5.0\Domain.AssemblyInfoInputs.cache
+C:\Users\train11\Desktop\Books\Domain\obj\Debug\net5.0\Domain.AssemblyInfo.cs
+C:\Users\train11\Desktop\Books\Domain\obj\Debug\net5.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\train11\Desktop\Books\Domain\obj\Debug\net5.0\Domain.dll
+C:\Users\train11\Desktop\Books\Domain\obj\Debug\net5.0\refint\Domain.dll
+C:\Users\train11\Desktop\Books\Domain\obj\Debug\net5.0\Domain.pdb
+C:\Users\train11\Desktop\Books\Domain\obj\Debug\net5.0\ref\Domain.dll
+\\192.168.10.114\trainers\Moaid\Books List\Domain\bin\Debug\net5.0\Domain.deps.json
+\\192.168.10.114\trainers\Moaid\Books List\Domain\bin\Debug\net5.0\Domain.dll
+\\192.168.10.114\trainers\Moaid\Books List\Domain\bin\Debug\net5.0\Domain.pdb
+\\192.168.10.114\trainers\Moaid\Books List\Domain\obj\Debug\net5.0\Domain.csproj.AssemblyReference.cache
+\\192.168.10.114\trainers\Moaid\Books List\Domain\obj\Debug\net5.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+\\192.168.10.114\trainers\Moaid\Books List\Domain\obj\Debug\net5.0\Domain.AssemblyInfoInputs.cache
+\\192.168.10.114\trainers\Moaid\Books List\Domain\obj\Debug\net5.0\Domain.AssemblyInfo.cs
+\\192.168.10.114\trainers\Moaid\Books List\Domain\obj\Debug\net5.0\Domain.csproj.CoreCompileInputs.cache
+\\192.168.10.114\trainers\Moaid\Books List\Domain\obj\Debug\net5.0\Domain.dll
+\\192.168.10.114\trainers\Moaid\Books List\Domain\obj\Debug\net5.0\refint\Domain.dll
+\\192.168.10.114\trainers\Moaid\Books List\Domain\obj\Debug\net5.0\Domain.pdb
+\\192.168.10.114\trainers\Moaid\Books List\Domain\obj\Debug\net5.0\ref\Domain.dll
